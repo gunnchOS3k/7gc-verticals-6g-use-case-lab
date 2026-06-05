@@ -1,4 +1,4 @@
 [project]
-name = "7gc-verticals-6g-use-case-lab"
+name = "gunnchos-7gc-verticals-6g-use-case-lab"
 version = "0.1.0"
 requires-python = ">=3.11"

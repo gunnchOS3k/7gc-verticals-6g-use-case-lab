@@ -2,4 +2,4 @@
 
 Health, energy, vehicles, industry/defense KPI mappings for 7GC campuses.
 
-Not affiliated with University of Oulu. Not accepted PhD status.
+Not affiliated with target wireless communications engineering programs. Not accepted PhD status.

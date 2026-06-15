@@ -28,7 +28,7 @@ make install && make test && make e2e
 Synthetic / simulation — **not field validated**. See `quality/EVIDENCE_MATRIX.md`.
 
 ## Not claimed
-- Oulu affiliation or endorsement
+- University affiliation or endorsement
 - Accepted PhD admission
 - Final 6G standard compliance
 
@@ -36,4 +36,4 @@ Synthetic / simulation — **not field validated**. See `quality/EVIDENCE_MATRIX
 See `docs/PORTFOLIO_LINKS.md`.
 
 ## wireless engineering readiness paths
-RAN/RF, DSP, measurement, security — see parent `gunnchOS wireless engineering portfolio alignment/OULU_WCE_SKILL_MATRIX.md`.
+RAN/RF, DSP, measurement, security — see parent `gunnchOS wireless engineering portfolio alignment/WIRELESS_ENGINEERING_SKILL_MATRIX.md`.

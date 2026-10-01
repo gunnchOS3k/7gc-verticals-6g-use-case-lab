@@ -118,5 +118,6 @@
   "methods": "Methods are the KPI name lists in src/gunnchos_7gc_verticals for health, energy, vehicles, and industry. The files name the indicators. They do not store measured vertical trials.",
   "cards": [],
   "runtime_mode": "PRECOMPUTED",
-  "runtime_boot": false
+  "runtime_boot": false,
+  "evidence_class": "REFERENCE_IMPLEMENTATION"
 }

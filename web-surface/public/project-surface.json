@@ -1,0 +1,21 @@
+{
+  "repo": "7gc-verticals-6g-use-case-lab",
+  "productName": "7GC verticals lab",
+  "family": "7GC",
+  "classification": "STATIC_RESEARCH_SURFACE_WORKER",
+  "acceptedSha": "256dc6dd6cd422b2c6c3cf7fb363a8062ccdb99a",
+  "status": "STAGING_WORKER",
+  "summary": "Independent portfolio lab for 6G vertical use cases. It is not an institutional affiliation.",
+  "capabilities": [
+    "Read the lab's stated scope",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "No university or Oulu affiliation is claimed",
+    "No peer review is claimed"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/7gc-verticals-6g-use-case-lab",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-7gc-verticals"
+}
